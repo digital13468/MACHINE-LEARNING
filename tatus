@@ -1,0 +1,37 @@
+[33mcommit 45f3d93d8e72d36d3f60932e66302e4a4be3177c[m
+Author: digital13468 <digital13468@hotmail.com>
+Date:   Tue Jul 19 10:38:14 2016 -0500
+
+    Revert "Revert "Second Commit""
+    
+    This reverts commit 74d6f5bdc69324a2e2032cd3a1e55c6a90e64c65.
+
+[33mcommit 74d6f5bdc69324a2e2032cd3a1e55c6a90e64c65[m
+Author: digital13468 <digital13468@hotmail.com>
+Date:   Tue Jul 19 10:36:51 2016 -0500
+
+    Revert "Second Commit"
+    
+    This reverts commit c584d479e99a40c37bcbbfb0fdc7cbd051e6df96.
+
+[33mcommit c584d479e99a40c37bcbbfb0fdc7cbd051e6df96[m
+Author: digital13468 <digital13468@hotmail.com>
+Date:   Mon Jul 18 13:59:57 2016 -0500
+
+    Second Commit
+    
+    Remove large files
+
+[33mcommit 4044529824bef8bed0999914edd23bf03a9ed4c2[m
+Author: digital13468 <digital13468@hotmail.com>
+Date:   Mon Jul 18 11:56:14 2016 -0500
+
+    First Commit
+    
+    All files together
+
+[33mcommit 97439418f66aae4aeeb2004c5d3bf5f92e0606cb[m
+Author: digital13468 <digital13468@hotmail.com>
+Date:   Mon Jul 18 11:51:44 2016 -0500
+
+    :confetti_ball: Added .gitattributes & .gitignore files
